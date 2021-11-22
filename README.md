@@ -1,0 +1,2 @@
+# ProjetoVarejo
+ Software que visa ser utilizado em varejos, utilizando JFrame e Itext para a interface gráfica e a impressão de comprovantes respectivamente, além de utilizar MySQL como Banco de dados, ele apresenta um gerenciamento de clientes, escolha de produto por ID e gerenciamento de Vendas, além de pedir Login de funcionário anteriormente cadastrados no banco de dados.  Esse é um projeto do final do meu Quarto período na Faculdade de Sistemas de informação, qualquer uso do mesmo sem os devidos créditos não é permitido.
